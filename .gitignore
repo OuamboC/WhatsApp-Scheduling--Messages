@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.txt
 
 # Distribution / packaging
 .Python
@@ -169,3 +170,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Hide PyWhatKit database
+PyWhatKit_DB.txt
